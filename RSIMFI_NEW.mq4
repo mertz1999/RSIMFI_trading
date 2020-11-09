@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                                       RSIMFI.mq4 |
-//|                        Copyright 2020, MetaQuotes Software Corp. |
+//|                                           Copyright 2020, mertz. |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2020, MetaQuotes Software Corp."
+#property copyright "Copyright 2020, mertz."
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 #property strict
