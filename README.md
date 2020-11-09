@@ -1,6 +1,6 @@
 # RSIMFI Trading Algorithm
 
-This strategy that it has been implement in MQL4 language for MetaTrader 4
+This strategy has been implement in MQL4 language for MetaTrader 4
 This is Based on :
 
   - RSI 26 period Indicator
